@@ -1,0 +1,3 @@
+{ "_id" : { "$oid" : "5482c36c2ff5a1e4043d11d1" }, "name" : "Category1" }
+{ "_id" : { "$oid" : "5482c37c2ff5a1e4043d11d2" }, "name" : "Category2" }
+{ "_id" : { "$oid" : "5482c3802ff5a1e4043d11d3" }, "name" : "Category3" }
